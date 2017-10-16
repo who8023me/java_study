@@ -20,9 +20,9 @@ class SeparateSubTask extends Thread
 		{
 			try 
 			{
-			sleep(100);
-			} catch 
-			(InterruptedException e)
+				sleep(100);
+			} 
+			catch(InterruptedException e)
 			{
 				
 			}
